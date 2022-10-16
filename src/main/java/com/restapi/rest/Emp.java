@@ -6,18 +6,18 @@ import javax.xml.bind.annotation.XmlRootElement;
 public class Emp
 {
 	private String name;
-	private int points;
+	private int eid;
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getPoints() {
-		return points;
+	public int getEid() {
+		return eid;
 	}
-	public void setPoints(int points) {
-		this.points = points;
+	public void setEid(int eid) {
+		this.eid = eid;
 	}
 	
 }

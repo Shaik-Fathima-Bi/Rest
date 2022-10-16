@@ -14,8 +14,8 @@ public class EmpResource
 	{
 		System.out.println("getEmployee() called..............");
 		Emp e1=new Emp();
-		e1.setName("Priya");
-		e1.setPoints(90);
+		e1.setName("Shaik Fathima");
+		e1.setEid(70840897);
 		
 		return e1;
 	}
