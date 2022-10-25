@@ -17,6 +17,6 @@ public class MyResource {
     @GET 
     @Produces("text/plain")
     public String getIt() {
-        return "Hi this is rest service!!!";
+        return "Hi this is rest service!!! and you can enter the path for response of page...";
     }
 }

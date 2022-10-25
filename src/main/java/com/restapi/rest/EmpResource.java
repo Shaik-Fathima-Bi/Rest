@@ -20,7 +20,6 @@ public class EmpResource
 		Emp e1=new Emp();
 		e1.setName("Shaik Fathima");
 		e1.setEid(70840897);
-		
 		Emp e2=new Emp();
 		e2.setName("Swathi");
 		e2.setEid(81095678);
