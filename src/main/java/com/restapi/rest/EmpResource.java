@@ -23,8 +23,12 @@ public class EmpResource
 		Emp e2=new Emp();
 		e2.setName("Swathi");
 		e2.setEid(81095678);
+		Emp e3=new Emp();
+		e3.setName("Lasya");
+		e3.setEid(73315678);
 		list.add(e1);
 		list.add(e2);
+		list.add(e3);
 		return list;
 	}
 }
