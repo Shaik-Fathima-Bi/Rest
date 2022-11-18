@@ -18,13 +18,13 @@ public class EmpResource
 		System.out.println("getEmployee() called..............");
 		List<Emp> list= new ArrayList<Emp>();
 		Emp e1=new Emp();
-		e1.setName("Shaik Fathima");
+		e1.setName("Employee1");
 		e1.setEid(70840897);
 		Emp e2=new Emp();
-		e2.setName("Swathi");
+		e2.setName("Employee2");
 		e2.setEid(81095678);
 		Emp e3=new Emp();
-		e3.setName("Lasya");
+		e3.setName("Employee3");
 		e3.setEid(73315678);
 		list.add(e1);
 		list.add(e2);
